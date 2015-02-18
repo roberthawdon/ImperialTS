@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RTSZDocument>
+  <RoyalDocument>
+    <ID>1857af1a-eaae-4e2d-8f48-351712364524</ID>
+    <Modified>02/18/2015 10:02:03</Modified>
+    <Name>Examples</Name>
+    <Created>02/17/2015 16:49:31</Created>
+    <ModifiedBy>roberthawdon</ModifiedBy>
+    <CreatedBy>roberthawdon</CreatedBy>
+    <PositionNr>0</PositionNr>
+    <IsExpanded>True</IsExpanded>
+    <DocumentType>Workspace</DocumentType>
+    <PasswordHash />
+    <AutoMergeOption>1</AutoMergeOption>
+    <SaveOption>2</SaveOption>
+    <FileName>/Users/roberthawdon/Documents/Test.rtsz</FileName>
+    <Description>Examples for ImperialTS</Description>
+    <LockdownFeaturesInUse>{}</LockdownFeaturesInUse>
+    <CredentialId>f761aece-08fb-40db-9f08-aa8c50ff9a94</CredentialId>
+  </RoyalDocument>
+  <RoyalTrash>
+    <ID>e504ea88-c3ca-4b67-89cc-d9304371b075</ID>
+    <Modified>02/17/2015 16:49:31</Modified>
+    <Name>Trashcan</Name>
+    <Created>02/17/2015 16:49:31</Created>
+    <ModifiedBy>roberthawdon</ModifiedBy>
+    <CreatedBy>roberthawdon</CreatedBy>
+    <PositionNr>1</PositionNr>
+    <IsExpanded>False</IsExpanded>
+    <ParentID>1857af1a-eaae-4e2d-8f48-351712364524</ParentID>
+  </RoyalTrash>
+  <RoyalSSHConnection>
+    <ID>558eadf8-7b2d-4ef2-9be0-4717ba2a3efe</ID>
+    <Modified>02/18/2015 09:56:52</Modified>
+    <Name>Terminal</Name>
+    <Created>02/17/2015 16:49:42</Created>
+    <ModifiedBy>roberthawdon</ModifiedBy>
+    <CreatedBy>roberthawdon</CreatedBy>
+    <PositionNr>1</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <ColorFromParent>True</ColorFromParent>
+    <ConnectionType>ssh;SSH Connection</ConnectionType>
+    <CustomImageList>{}</CustomImageList>
+    <ParentID>e504ea88-c3ca-4b67-89cc-d9304371b075</ParentID>
+    <ObjectSpecialUsage />
+    <URI>127.0.0.1</URI>
+    <IsTelnetConnection>False</IsTelnetConnection>
+    <IsSerialPortConnection>False</IsSerialPortConnection>
+    <CustomImage />
+    <Description>fgsdf</Description>
+    <CustomPalette1NormalRed>#bb0000</CustomPalette1NormalRed>
+    <CustomPalette2NormalGreen>#00bb00</CustomPalette2NormalGreen>
+    <CustomPalette3NormalYellow>#bbbb00</CustomPalette3NormalYellow>
+    <CustomPalette4NormalBlue>#0000bb</CustomPalette4NormalBlue>
+    <CustomPalette5NormalMagenta>#bb00bb</CustomPalette5NormalMagenta>
+    <CustomPalette6NormalCyan>#00bbbb</CustomPalette6NormalCyan>
+    <CustomPalette7NormalWhite>#bbbbbb</CustomPalette7NormalWhite>
+    <CustomPalette9BrightRed>#ff5555</CustomPalette9BrightRed>
+    <CustomPalette10BrightGreen>#55ff55</CustomPalette10BrightGreen>
+    <CustomPalette11BrightYellow>#ffff55</CustomPalette11BrightYellow>
+    <CustomPalette12BrightBlue>#5555ff</CustomPalette12BrightBlue>
+    <CustomPalette13BrightMagenta>#ff55ff</CustomPalette13BrightMagenta>
+    <CustomPalette14BrightCyan>#55ffff</CustomPalette14BrightCyan>
+    <CustomPalette15BrightWhite>#ffffff</CustomPalette15BrightWhite>
+    <SelectionTextColor>#ffffff</SelectionTextColor>
+    <CursorColor>#ffffff</CursorColor>
+    <CredentialId>f761aece-08fb-40db-9f08-aa8c50ff9a94</CredentialId>
+    <ExternalScreenOSX>0</ExternalScreenOSX>
+    <PlugInOSX>7c84a650-9896-11e1-a8b0-0800200c9a66</PlugInOSX>
+  </RoyalSSHConnection>
+  <RoyalRDSConnection>
+    <ID>79afc294-94e5-46ba-8da0-95b93a7497d5</ID>
+    <Modified>02/18/2015 09:56:52</Modified>
+    <Name>Remote Desktop</Name>
+    <Created>02/17/2015 16:49:52</Created>
+    <ModifiedBy>roberthawdon</ModifiedBy>
+    <CreatedBy>roberthawdon</CreatedBy>
+    <PositionNr>3</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <ColorFromParent>True</ColorFromParent>
+    <CustomImage />
+    <CustomImageList>{}</CustomImageList>
+    <KeepAliveInterval>30</KeepAliveInterval>
+    <ParentID>e504ea88-c3ca-4b67-89cc-d9304371b075</ParentID>
+    <ObjectSpecialUsage />
+    <URI>127.0.0.1</URI>
+  </RoyalRDSConnection>
+  <RoyalFolder>
+    <ID>43419d3a-8fc7-4739-9fd8-9e2e811bd39f</ID>
+    <Modified>02/18/2015 09:56:52</Modified>
+    <Name>Advanced Examples</Name>
+    <Created>02/18/2015 09:56:37</Created>
+    <ModifiedBy>roberthawdon</ModifiedBy>
+    <CreatedBy>roberthawdon</CreatedBy>
+    <PositionNr>3</PositionNr>
+    <IsExpanded>True</IsExpanded>
+    <ParentID>1857af1a-eaae-4e2d-8f48-351712364524</ParentID>
+    <ObjectSpecialUsage />
+  </RoyalFolder>
+  <RoyalFolder>
+    <ID>c6282aba-2acd-4839-9071-e704f47df305</ID>
+    <Modified>02/18/2015 10:01:16</Modified>
+    <Name>Nested Folder</Name>
+    <Created>02/18/2015 09:57:18</Created>
+    <ModifiedBy>roberthawdon</ModifiedBy>
+    <CreatedBy>roberthawdon</CreatedBy>
+    <PositionNr>1</PositionNr>
+    <IsExpanded>False</IsExpanded>
+    <ParentID>43419d3a-8fc7-4739-9fd8-9e2e811bd39f</ParentID>
+    <ObjectSpecialUsage />
+  </RoyalFolder>
+  <RoyalFolder>
+    <ID>a8443405-b2ac-4a00-890a-38635b1d7986</ID>
+    <Modified>02/18/2015 10:01:16</Modified>
+    <Name>RCD Examples</Name>
+    <Created>02/18/2015 09:57:28</Created>
+    <ModifiedBy>roberthawdon</ModifiedBy>
+    <CreatedBy>roberthawdon</CreatedBy>
+    <PositionNr>3</PositionNr>
+    <IsExpanded>True</IsExpanded>
+    <ParentID>43419d3a-8fc7-4739-9fd8-9e2e811bd39f</ParentID>
+    <ObjectSpecialUsage />
+  </RoyalFolder>
+  <RoyalRDSConnection>
+    <ID>9b225f6e-0b6a-4c1c-b992-4e112f8add41</ID>
+    <Modified>02/18/2015 10:01:16</Modified>
+    <Name>RCD Non Standard Port</Name>
+    <Created>02/18/2015 09:57:43</Created>
+    <ModifiedBy>roberthawdon</ModifiedBy>
+    <CreatedBy>roberthawdon</CreatedBy>
+    <PositionNr>1</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <ColorFromParent>True</ColorFromParent>
+    <CustomImage />
+    <CustomImageList>{}</CustomImageList>
+    <KeepAliveInterval>30</KeepAliveInterval>
+    <ParentID>a8443405-b2ac-4a00-890a-38635b1d7986</ParentID>
+    <ObjectSpecialUsage />
+    <URI>127.0.0.1</URI>
+    <RDPPort>1234</RDPPort>
+    <Description>A Non Standard RCD Port</Description>
+  </RoyalRDSConnection>
+  <RoyalRDSConnection>
+    <ID>72a3dd67-c06d-4657-8f6b-f15664de78ac</ID>
+    <Modified>02/18/2015 10:01:16</Modified>
+    <Name>RCD With A Colour</Name>
+    <Created>02/18/2015 09:58:13</Created>
+    <ModifiedBy>roberthawdon</ModifiedBy>
+    <CreatedBy>roberthawdon</CreatedBy>
+    <PositionNr>3</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <ColorFromParent>False</ColorFromParent>
+    <CustomImage />
+    <CustomImageList>{}</CustomImageList>
+    <KeepAliveInterval>30</KeepAliveInterval>
+    <ParentID>a8443405-b2ac-4a00-890a-38635b1d7986</ParentID>
+    <ObjectSpecialUsage />
+    <URI>RCD With A Colour</URI>
+    <Description>Red label</Description>
+    <Color>#FF0000</Color>
+  </RoyalRDSConnection>
+  <RoyalRDSConnection>
+    <ID>a604e883-059a-4c90-be46-97a7ef5e6c86</ID>
+    <Modified>02/18/2015 10:01:16</Modified>
+    <Name>RCD existing credential</Name>
+    <Created>02/18/2015 09:58:40</Created>
+    <ModifiedBy>roberthawdon</ModifiedBy>
+    <CreatedBy>roberthawdon</CreatedBy>
+    <PositionNr>5</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <ColorFromParent>True</ColorFromParent>
+    <CustomImage />
+    <CustomImageList>{}</CustomImageList>
+    <KeepAliveInterval>30</KeepAliveInterval>
+    <ParentID>a8443405-b2ac-4a00-890a-38635b1d7986</ParentID>
+    <ObjectSpecialUsage />
+    <URI>127.0.0.1</URI>
+    <Description>RCD Example credential</Description>
+    <CredentialMode>3</CredentialMode>
+    <CredentialId>1e8b5353-e99f-4117-a7b2-379192990465</CredentialId>
+  </RoyalRDSConnection>
+  <RoyalRDSConnection>
+    <ID>977c67cd-3b76-43a8-81bd-fb8e1f76ae77</ID>
+    <Modified>02/18/2015 10:01:16</Modified>
+    <Name>RCD Specified Credential</Name>
+    <Created>02/18/2015 09:59:55</Created>
+    <ModifiedBy>roberthawdon</ModifiedBy>
+    <CreatedBy>roberthawdon</CreatedBy>
+    <PositionNr>7</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <ColorFromParent>False</ColorFromParent>
+    <CustomImage />
+    <CustomImageList>{}</CustomImageList>
+    <KeepAliveInterval>30</KeepAliveInterval>
+    <ParentID>a8443405-b2ac-4a00-890a-38635b1d7986</ParentID>
+    <ObjectSpecialUsage />
+    <URI>127.0.0.1</URI>
+    <Description>RCD With Specified Credential</Description>
+    <CredentialMode>2</CredentialMode>
+    <CredentialUsername>username</CredentialUsername>
+    <CredentialPassword>CHzIfSUj1+vk+PXtEMEc5tzgU05+zHSVTw93yAVKz/svu5rGlhcrW0bIfwdxy3bPLkagH1wW/jLLmYwa1lfU/dTI0xoMpU6aeG/ZAv7UxRw=</CredentialPassword>
+    <CredentialId>f761aece-08fb-40db-9f08-aa8c50ff9a94</CredentialId>
+  </RoyalRDSConnection>
+  <RoyalRDSConnection>
+    <ID>e5153c94-8100-46ca-9770-1aff24161d57</ID>
+    <Modified>02/18/2015 10:01:16</Modified>
+    <Name>RCD Load Balance Info</Name>
+    <Created>02/18/2015 10:00:30</Created>
+    <ModifiedBy>roberthawdon</ModifiedBy>
+    <CreatedBy>roberthawdon</CreatedBy>
+    <PositionNr>9</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <ColorFromParent>True</ColorFromParent>
+    <CustomImage />
+    <CustomImageList>{}</CustomImageList>
+    <KeepAliveInterval>30</KeepAliveInterval>
+    <ParentID>a8443405-b2ac-4a00-890a-38635b1d7986</ParentID>
+    <ObjectSpecialUsage />
+    <URI>127.0.0.1</URI>
+    <Description>RCD with Load Balance Info</Description>
+    <LoadBalanceInfo>Example LBI</LoadBalanceInfo>
+  </RoyalRDSConnection>
+  <RoyalFolder>
+    <ID>db244af1-07f0-4044-901d-043750379f47</ID>
+    <Modified>02/18/2015 09:56:52</Modified>
+    <Name>Connections</Name>
+    <Created>02/17/2015 16:49:31</Created>
+    <ModifiedBy>roberthawdon</ModifiedBy>
+    <CreatedBy>roberthawdon</CreatedBy>
+    <PositionNr>5</PositionNr>
+    <IsExpanded>True</IsExpanded>
+    <ParentID>1857af1a-eaae-4e2d-8f48-351712364524</ParentID>
+    <ObjectSpecialUsage />
+  </RoyalFolder>
+  <RoyalFolder>
+    <ID>e275d894-9049-486d-ab1a-666b6724c0c4</ID>
+    <Modified>02/18/2015 09:56:32</Modified>
+    <Name>Example Folder</Name>
+    <Created>02/18/2015 09:56:24</Created>
+    <ModifiedBy>roberthawdon</ModifiedBy>
+    <CreatedBy>roberthawdon</CreatedBy>
+    <PositionNr>1</PositionNr>
+    <IsExpanded>False</IsExpanded>
+    <ParentID>db244af1-07f0-4044-901d-043750379f47</ParentID>
+    <ObjectSpecialUsage />
+  </RoyalFolder>
+  <RoyalRDSConnection>
+    <ID>557075e5-4b76-464f-9687-7d1f087d3e22</ID>
+    <Modified>02/18/2015 09:56:32</Modified>
+    <Name>Example RCD</Name>
+    <Created>02/18/2015 09:49:38</Created>
+    <ModifiedBy>roberthawdon</ModifiedBy>
+    <CreatedBy>roberthawdon</CreatedBy>
+    <PositionNr>3</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <ColorFromParent>True</ColorFromParent>
+    <CustomImage />
+    <CustomImageList>{}</CustomImageList>
+    <KeepAliveInterval>30</KeepAliveInterval>
+    <ParentID>db244af1-07f0-4044-901d-043750379f47</ParentID>
+    <ObjectSpecialUsage />
+    <URI>127.0.0.1</URI>
+    <Description>Simple Example of RCD</Description>
+  </RoyalRDSConnection>
+  <RoyalSSHConnection>
+    <ID>fdec52a7-886a-4866-aa82-46d79f41d3c5</ID>
+    <Modified>02/18/2015 09:56:32</Modified>
+    <Name>Example Terminal</Name>
+    <Created>02/18/2015 09:50:02</Created>
+    <ModifiedBy>roberthawdon</ModifiedBy>
+    <CreatedBy>roberthawdon</CreatedBy>
+    <PositionNr>5</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <ColorFromParent>True</ColorFromParent>
+    <ConnectionType>ssh;SSH Connection</ConnectionType>
+    <CustomImageList>{}</CustomImageList>
+    <ParentID>db244af1-07f0-4044-901d-043750379f47</ParentID>
+    <ObjectSpecialUsage />
+    <URI>127.0.0.1</URI>
+    <IsTelnetConnection>False</IsTelnetConnection>
+    <IsSerialPortConnection>False</IsSerialPortConnection>
+    <Description>Simple example of a terminal</Description>
+    <CustomImage />
+  </RoyalSSHConnection>
+  <RoyalVNCConnection>
+    <ID>5f6c16c8-014a-42b2-8077-d554f917d018</ID>
+    <Modified>02/18/2015 09:56:32</Modified>
+    <Name>Example VNC</Name>
+    <Created>02/18/2015 09:54:50</Created>
+    <ModifiedBy>roberthawdon</ModifiedBy>
+    <CreatedBy>roberthawdon</CreatedBy>
+    <PositionNr>7</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <ColorFromParent>True</ColorFromParent>
+    <CustomImageList>{}</CustomImageList>
+    <ParentID>db244af1-07f0-4044-901d-043750379f47</ParentID>
+    <ObjectSpecialUsage />
+    <URI>127.0.0.1</URI>
+    <Description>An example of a VNC connection</Description>
+    <CustomImage />
+  </RoyalVNCConnection>
+  <RoyalWebConnection>
+    <ID>c7772f30-3270-456f-a539-d5b2c06613a9</ID>
+    <Modified>02/18/2015 09:56:32</Modified>
+    <Name>Example Web Page</Name>
+    <Created>02/18/2015 09:55:14</Created>
+    <ModifiedBy>roberthawdon</ModifiedBy>
+    <CreatedBy>roberthawdon</CreatedBy>
+    <PositionNr>9</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <ColorFromParent>True</ColorFromParent>
+    <CustomImageList>{}</CustomImageList>
+    <ParentID>db244af1-07f0-4044-901d-043750379f47</ParentID>
+    <ObjectSpecialUsage />
+    <URI>https://www.google.com</URI>
+    <Description>An example webpage (Google)</Description>
+    <CustomImage />
+  </RoyalWebConnection>
+  <RoyalFolder>
+    <ID>bb181e74-31df-436c-9842-acd7cf48e895</ID>
+    <Modified>02/18/2015 09:56:52</Modified>
+    <Name>Credentials</Name>
+    <Created>02/17/2015 16:49:31</Created>
+    <ModifiedBy>roberthawdon</ModifiedBy>
+    <CreatedBy>roberthawdon</CreatedBy>
+    <PositionNr>7</PositionNr>
+    <IsExpanded>True</IsExpanded>
+    <ParentID>1857af1a-eaae-4e2d-8f48-351712364524</ParentID>
+    <ObjectSpecialUsage />
+  </RoyalFolder>
+  <RoyalCredential>
+    <ID>1e8b5353-e99f-4117-a7b2-379192990465</ID>
+    <Modified>02/18/2015 10:02:10</Modified>
+    <Name>Example Credential</Name>
+    <Created>02/18/2015 09:55:55</Created>
+    <ModifiedBy>roberthawdon</ModifiedBy>
+    <CreatedBy>roberthawdon</CreatedBy>
+    <PositionNr>1</PositionNr>
+    <ParentID>bb181e74-31df-436c-9842-acd7cf48e895</ParentID>
+    <UserName>Username</UserName>
+    <Password>JmhP9RwIoGsQbJj3y0+dsdxFSPx+FtGjDd+ePivXmtXH2S/2pacvcSLkLxb0+/SIOQZjqKVjvjHCcuj1psiRGq5H3eA1Zn3+gBH/Adox/iQ=</Password>
+    <Description>An example user and password</Description>
+    <CustomImageList>{}</CustomImageList>
+  </RoyalCredential>
+  <RoyalFolder>
+    <ID>ba0fc363-a1d1-4646-a465-456266397cf6</ID>
+    <Modified>02/18/2015 09:56:52</Modified>
+    <Name>Tasks</Name>
+    <Created>02/17/2015 16:49:31</Created>
+    <ModifiedBy>roberthawdon</ModifiedBy>
+    <CreatedBy>roberthawdon</CreatedBy>
+    <PositionNr>9</PositionNr>
+    <IsExpanded>False</IsExpanded>
+    <ParentID>1857af1a-eaae-4e2d-8f48-351712364524</ParentID>
+    <ObjectSpecialUsage />
+  </RoyalFolder>
+</RTSZDocument>
